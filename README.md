@@ -1,16 +1,45 @@
 ### Hi there 👋
 
-<!--
-**avinashamanjha251/avinashamanjha251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an iOS enthusiast based in Jharkhand, India.
 
-Here are some ideas to get you started:
+About Me 🤷🏻‍♀️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 👩🏻‍💻 Self taught iOS App Developer
+
+• 🌱 Currently learning hapi.js
+
+• 🔭 Getting started with Open Source
+
+• 📖 Love reading open source codes
+
+• Skills:-
+
+- Git
+
+- Firebase
+
+- Swift/SwiftUI
+
+- CI/CD
+
+- MVC/MVVM
+
+- Coredata/Realm
+
+- RestAPI
+
+- SPM/Cocoapods
+
+- Apple Pay/In-App Purchase
+
+- HealthKit
+
+- Server side swift
+
+- Django
+
+- J2SE, J2EE
+
+- hapi.js
+  
+ps:- wanna work on a crazy idea together? Ping me! 🙂
