@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an iOS enthusiast based in Jharkhand, India.
+I am an iOS enthusiast based in Delhi, India.
 
 About Me 🤷🏻‍♀️
 
