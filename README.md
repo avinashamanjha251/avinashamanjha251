@@ -11,7 +11,7 @@
 
 ### 🚀 **About Me**
 
-I am a **Senior iOS Engineer & Tech Lead** with **10+ years of experience** building production-grade Apple Ecosystem apps — ranging from Web3 blockchain health platforms and smartwatch companions to real-time messaging engines and custom video/camera pipelines. 
+I am a **Senior iOS Engineer & Tech Lead** with **7+ years of experience** building production-grade Apple Ecosystem apps — ranging from Web3 blockchain health platforms and smartwatch companions to real-time messaging engines and custom video/camera pipelines. 
 
 I bridge **deep technical execution** with **product strategy**, leading architecture, mentoring engineers, and delivering robust, zero-failure App Store releases.
 
@@ -21,7 +21,7 @@ I bridge **deep technical execution** with **product strategy**, leading archite
 
 ### 📊 **Key Metrics & Impact**
 
-- ⚡ **10+ Years** of iOS & Apple Ecosystem engineering
+- ⚡ **7+ Years** of iOS & Apple Ecosystem engineering
 - 👥 **200K+** Active users across flagship products
 - 📱 **8+** Enterprise & Flagship mobile apps shipped
 - 🛡️ **0** Deployment failures across major releases
@@ -56,7 +56,7 @@ I bridge **deep technical execution** with **product strategy**, leading archite
 
 #### 💬 **AppRoutes Services Pvt. Ltd. — iOS Developer**
 *Feb 2016 – Oct 2017*
-- **CiaoIM**: Architected real-time chat infrastructure using **XMPP**, supporting **10,000+ concurrent users** with sub-second message delivery, offline queuing, and media streaming.
+- **CiaoIM**: Architected real-time chat infrastructure using **XMPP**, supporting **7,000+ concurrent users** with sub-second message delivery, offline queuing, and media streaming.
 - **Tiplr**: Developed location-aware travel discovery features with **MapKit & Core Location** pin clustering and proximity search.
 
 ---
@@ -81,7 +81,7 @@ I bridge **deep technical execution** with **product strategy**, leading archite
 
 ### 🎓 **Education & Background**
 
-- 🎓 **B.Tech in Electrical, Electronics & Communications** — RVSCET, Jamshedpur (2010 – 2014)
+- 🎓 **B.Tech in Electrical, Electronics & Communications** — RVSCET, Jamshedpur (207 – 2014)
 - 🤝 Member of **IETE** (Institution of Electronics and Telecommunication Engineers)
 
 ---
